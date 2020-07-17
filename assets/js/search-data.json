@@ -39,10 +39,10 @@
 
   
       ,"page2": {
-          "title": "Home",
+          "title": "Homepage",
           "content": "",
-          "url": "https://vnscience.github.io/blog/home/",
-          "relUrl": "/home/",
+          "url": "https://vnscience.github.io/blog/homepage/",
+          "relUrl": "/homepage/",
           "date": ""
       }
       
