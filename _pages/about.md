@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Homepage: https://vnscience.github.io/ for current research, publication and profile.
+Click [Homepage](https://vnscience.github.io/) for current research, publication and profile.
 
 
 
