@@ -38,6 +38,17 @@
   
 
   
+      ,"page2": {
+          "title": "Home",
+          "content": "",
+          "url": "https://vnscience.github.io/blog/https:/vnscience.github.io/",
+          "relUrl": "/https:/vnscience.github.io/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -59,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://vnscience.github.io/blog/robots.txt",
